@@ -3,3 +3,5 @@ pillow
 pytesseract
 googletrans==4.0.0-rc1
 numpy
+python==3.10.*
+opencv-python
